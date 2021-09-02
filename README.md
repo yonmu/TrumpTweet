@@ -1,4 +1,4 @@
-# Trump-Tweet
+# TrumpTweet
 Small just-for-fun project as a student:
 Pulls the last #hashtags or @mentions from former USA president Donald Trump's twitter account.
 
