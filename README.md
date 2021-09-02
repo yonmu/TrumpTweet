@@ -5,4 +5,4 @@ Not implemented: Get statistics on relevnt tweets.
 
 Using: Java.
 
-Notes: Donald Trump's twitter account was removed from Twitter.
+Notes: Donald Trump's twitter account was blocked on Twitter (January 2021).
